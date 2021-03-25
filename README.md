@@ -9,5 +9,5 @@ The purpose of this work is show visually how suicide rates behave throughout th
 ## Video
 https://www.youtube.com/watch?v=OoGLqI21lig
 
-##
+## Graphics
 <img src="images/img.png"></img>
