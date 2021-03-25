@@ -9,5 +9,8 @@ The purpose of this work is show visually how suicide rates behave throughout th
 ## Video
 https://www.youtube.com/watch?v=OoGLqI21lig
 
+## web application
+Um arquivo .ipynb pode ser encontrado na pasta notebooks, com o código fonte da aplicação web usando dash.
+
 ## Graphics
 <img src="images/img.png"></img>
