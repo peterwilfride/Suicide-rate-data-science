@@ -5,5 +5,4 @@ The dataset can be found in the site https://www.kaggle.com/russellyates88/suici
 
 ## Purpose
 The purpose of this work is show visually how suicide rates behave throughout the years and how this rates relate to data such as sex, age, generation, etcetera.
-
-![alt text](https://github.com/[rafaelviniciusoliveira]/[peterwilfride/Suicide-rate-data-science]/blob/[master]/img.png?raw=true)
+![Alt text](C:\Users\Rafael\Desktop\projeto cd\Suicide-rate-data-science\img.png?raw=true "Title")
